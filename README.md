@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @an-dr32
-- 👀 I’m interested in design, arts and programming
-- 🌱 I’m currently learning Phaser, React, Bootstrap, NodeJS, Python(Flask), Java, HTML, CSS, C++, Javascript, Proccessing
-- 💞️ I’m looking to collaborate on interesting projects (Especially videogames) 
+- 👀 Interested in design, arts, and programming, recently obtained a Cybersecurity education.
+- 🌱 Currently learning Phaser, React, Bootstrap, NodeJS, Python(Flask), Java, HTML, CSS, C++, Javascript, Proccessing, Ducky Script, C, C##, and many more.
+- 💞️ Looking to collaborate on interesting projects (Especially videogames) 
 - 📫 How to reach me: Right here. Just send a DM and we can get in touch
 
 <!---
